@@ -6,7 +6,12 @@ body {
 
 a {
   font-family: 'Montserrat', sans-serif;
+  font-size: 1em;
   color: #11999E;
+}
+
+p {
+  font-size: 1em;
 }
 
 h1 {
